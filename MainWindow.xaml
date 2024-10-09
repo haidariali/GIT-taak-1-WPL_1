@@ -8,6 +8,20 @@
         Title="film-app-project-WPL" Height="450" Width="800">
     <Grid Background="#58A518">
         <Image x:Name="logoPXL" HorizontalAlignment="Left" Height="55" Margin="7,6,0,0" VerticalAlignment="Top" Width="179" Source="/logo_pxl_digital.png"/>
+        <Border BorderBrush="Black" 
+         BorderThickness="1" 
+         Padding="5" 
+         CornerRadius="2" 
+         HorizontalAlignment="Left" 
+         VerticalAlignment="Top" 
+         Margin="217,6,0,0" Width="529" Height="53">
+            <Label x:Name="titel" 
+           Content="PXL MovieDB" 
+           HorizontalAlignment="Center" 
+           VerticalAlignment="Center" 
+           FontSize="24" 
+           FontWeight="Bold"/>
+        </Border>
 
     </Grid>
 </Window>
