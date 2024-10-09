@@ -22,6 +22,9 @@
            FontSize="24" 
            FontWeight="Bold"/>
         </Border>
+        <Image x:Name="imgdune2" HorizontalAlignment="Left" Height="226" Margin="49,90,0,0" VerticalAlignment="Top" Width="155" Source="/dune2.jpg"/>
+        <Image x:Name="imgforiosa" HorizontalAlignment="Left" Height="226" Margin="300,90,0,0" VerticalAlignment="Top" Width="158" Source="/furiosa.jpg"/>
+        <Image x:Name="imgthesubstance" HorizontalAlignment="Left" Height="226" Margin="541,90,0,0" VerticalAlignment="Top" Width="154" Source="/thesubstance.jpg"/>
 
     </Grid>
 </Window>

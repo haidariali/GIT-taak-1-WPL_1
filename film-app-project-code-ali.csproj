@@ -97,5 +97,14 @@
   <ItemGroup>
     <Resource Include="logo_pxl_digital.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="dune2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="furiosa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="thesubstance.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
